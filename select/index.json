@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワードワードワード",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-12T10:51:59.805960Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワードワードワード",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_ワードワードワード_syudou.txt"
+    }
+  ]
+}
